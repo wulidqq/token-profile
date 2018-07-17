@@ -1,0 +1,23 @@
+{
+  "symbol": "GLC",
+  "address": "0xe1a66dc6a2f457864e50142a20197afd186c0cc8",
+  "overview":{
+        "en": "CariNet Project is a digital finance and free trade system for Sihanoukville Special Economic Zone (SSEZ), initiated by SSEZ. The project will establish a blockchain payment and digital finance infrastructure, construct a blockchain intelligent international trade platform and attract blockchain industry companies’ registration. The system will create new economic growth points for SSEZ, build SSEZ into an emerging global digital financial center and free trade hub.
+Garlic Chain is the core engine of SSEZ's digital finance and trade system. The official digital token GLC based on Garlic Chain's main network is the main circulation means of the SSEZ digital finance and trade system.",
+        "zh": "Garlic Chain 西哈努克港經濟特區（SSEZ）數字金融與貿易體系，由SSEZ發起，通過建設區 塊鏈支付基礎設施、數字金融基礎設施、區塊鏈智能國際貿易平臺，提供數字金 融合規許可，吸引各種區塊鏈產業落戶。該體系將為SSEZ創造新的經濟增長點， 使SSEZ成為新興的全球數字金融中心與自由貿易樞紐。Garlic Chain是SSEZ數字金融與貿易體系的核心引擎，基於Garlic Chain主網發行 的官方數字代幣GLC是SSEZ數字金融與貿易體系的主要流通手段。"
+  },
+  "email": "garlic@garlic.one",
+  "website": "http://www.garlic.one",
+  "whitepaper": "http://www.garlic.one/static/home/index/font/GarlicChain.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-09",
+  "initial_price":{
+        "USDT":"0.5 USD",
+  },
+  "links": {
+    "blog": "https://weibo.com/6567452577/GoDM2fFyN",
+    "telegram": "https://t.me/Garlic_Chain",
+    "toutiao": "https://www.toutiao.com/i6574653664772751885",
+    "jinse": "https://www.jinse.com/bitcoin/209924.html"
+  }
+}
